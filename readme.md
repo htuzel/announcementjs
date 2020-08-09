@@ -1,5 +1,10 @@
 # Anouncement.js
 
+Example:
+
+![Sample](https://github.com/htuzel/anouncementjs/blob/master/example.jpg?raw=true)
+
+
 ## Installation
 
 Add js file to your html.
