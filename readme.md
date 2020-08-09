@@ -6,7 +6,7 @@ Add js file to your html.
 ```<script src="./src/index.js"></script>```
 
 Then you can call and use anouncement component like that
-````
+```
 var options = {
     text : {
         title : "To new members",
@@ -15,8 +15,7 @@ var options = {
     }
 };
 var anounceCreator = new AnounceCreator();
-anounceCreator.initialize(options);
-
+anounceCreator.initialize(options); 
 ```
 
 You are free to create PR to improve code quality and functionality.
