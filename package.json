@@ -1,0 +1,25 @@
+{
+  "name": "anouncement",
+  "version": "1.0.0",
+  "description": "anouncement for web pages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htuzel/anouncement.git"
+  },
+  "keywords": [
+    "anouncement"
+  ],
+  "author": "htuzel - hayreddintuzel@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/htuzel/anouncement/issues"
+  },
+  "homepage": "https://github.com/htuzel/anouncement#readme",
+  "dependencies": {
+    "readable-stream": "^3.6.0"
+  }
+}
