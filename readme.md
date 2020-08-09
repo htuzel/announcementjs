@@ -2,7 +2,7 @@
 
 Example:
 
-![Sample](https://github.com/htuzel/anouncementjs/blob/master/example.jpg?raw=true)
+![Sample](https://github.com/htuzel/anouncementjs/blob/master/example.png?raw=true)
 
 
 ## Installation
