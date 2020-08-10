@@ -1,4 +1,4 @@
-# Anouncement.js
+# Announcement.js
 
 Example:
 
